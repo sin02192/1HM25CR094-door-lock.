@@ -1,4 +1,9 @@
-# ESP32 Smart Door Lock using MQTT
+ ## Project Features
+- Remote door locking using MQTT.
+- Remote door unlocking using MQTT.
+- ESP32-based control system.
+- Wi-Fi connectivity.
+- # ESP32 Smart Door Lock using MQTT
 
 ## Project Description
 This project implements a Smart Door Lock using ESP32 and MQTT communication.
