@@ -1,4 +1,18 @@
- ## Project Features
+
+ ## MQTT Communication
+
+The project uses the MQTT protocol for communication.
+
+### MQTT Broker
+HiveMQ Public Broker
+
+### MQTT Topic
+pesnext/w5/1HM25CR094/cmd
+
+### Supported Commands
+- LOCK
+- UNLOCK
+- ## Project Features
 - Remote door locking using MQTT.
 - Remote door unlocking using MQTT.
 - ESP32-based control system.
